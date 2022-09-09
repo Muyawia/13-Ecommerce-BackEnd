@@ -7,6 +7,8 @@ Code for an E-commerce shop using MySql for the backend database. There is no fr
 
 To use it use the free application Insomnia which can be downloaded here: https://insomnia.rest/download
 
+## Demonstration
+
 The application's GET routes to return all categories, products, and tags being tested:
 
 ![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
